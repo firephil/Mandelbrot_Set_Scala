@@ -1,10 +1,7 @@
 package mandelbrotset
-import javax.swing.ImageIcon
 import javax.swing.JFrame
-import javax.swing.JLabel
 import java.awt.BorderLayout
 import java.awt.image.BufferedImage
-import java.awt.Dimension
 import java.awt.Toolkit
 import javax.swing.WindowConstants
 
