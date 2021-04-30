@@ -5,6 +5,7 @@
 ### History
 
 The Mandelbrot set has its origin in complex dynamics, a field first investigated by the French mathematicians Pierre Fatou and Gaston Julia at the beginning of the 20th century. This fractal was first defined and drawn in 1978 by Robert W. Brooks and Peter Matelski as part of a study of Kleinian groups.
+
 On 1 March 1980, at IBM's Thomas J. Watson Research Center in Yorktown Heights, New York, 
 **Benoit Mandelbrot** first saw a visualization of the set.
 
